@@ -1,7 +1,7 @@
 === View WP Error Log ===
 Contributors: MMDeveloper
 Donate link: 
-Tags: form, contact, plugin
+Tags: error, log
 Requires at least: 3.3
 Tested up to: 3.5.1
 Stable tag: 1.0
